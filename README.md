@@ -1,8 +1,8 @@
 <h1 align="center">¡Hola, soy Gianmarcos Garbozo Obregon! 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_DE_GITHUB&color=blue&style=flat-square" alt="Profile views" />
-  <a href="https://github.com/TU_USUARIO_DE_GITHUB?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositorios-181717?style=flat-square&logo=github" alt="GitHub Repositories"></a>
+  <img src="https://komarev.com/ghpvc/?username=GianPollito&color=blue&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/GianPollito?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositorios-181717?style=flat-square&logo=github" alt="GitHub Repositories"></a>
   <img src="https://img.shields.io/badge/Status-Estudiante%20%2F%20Desarrollador-success?style=flat-square" alt="Status">
 </p>
 
@@ -38,8 +38,8 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GianPollito&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianPollito&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
