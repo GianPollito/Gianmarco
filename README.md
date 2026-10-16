@@ -1,49 +1,53 @@
-<h1 align="center">¡Hola, soy Gianmarcos Garbozo Obregon! 👋</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GianPollito&color=blue&style=flat-square" alt="Profile views" />
-  <a href="https://github.com/GianPollito?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositorios-181717?style=flat-square&logo=github" alt="GitHub Repositories"></a>
-  <img src="https://img.shields.io/badge/Status-Estudiante%20%2F%20Desarrollador-success?style=flat-square" alt="Status">
-</p>
-
-<p align="center">
-  💻 Estudiante y desarrollador de software enfocado en crear soluciones web, aplicaciones móviles y sistemas embebidos. Apasionado por la tecnología y la mejora continua.
-</p>
-
----
-
-### 🛠️ Tecnologías y Herramientas
-
-<p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
+<div align="center">
+  <h1>¡Hola, soy Gianmarcos Garbozo Obregon! 👋</h1>
+  <p><strong>Estudiante & Desarrollador de Software</strong></p>
+  
+  <p>
+    <a href="https://github.com/GianPollito"><img src="https://img.shields.io/badge/GitHub-GianPollito-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+    <img src="https://img.shields.io/badge/Status-Disponible-success?style=flat-square" alt="Status">
+    <img src="https://img.shields.io/badge/Pucallpa-Perú-003893?style=flat-square&logo=peru&logoColor=white" alt="Ubicación">
+  </p>
+</div>
 
 ---
 
-### 🚀 Áreas de Enfoque
+### 👨‍💻 Sobre mí
 
-- **Desarrollo Web:** Creación de aplicaciones robustas con **Laravel**, maquetación moderna usando **Tailwind CSS** y gestión de bases de datos relacionales con **MySQL**.
-- **Desarrollo Móvil (Android):** Construcción de apps nativas en **Kotlin**, implementando bases de datos locales (`Room`), consumo de APIs (`Retrofit`) y arquitecturas orientadas a un funcionamiento fluido.
-- **Internet de las Cosas (IoT):** Automatización y control de hardware mediante **Arduino**, NodeMCU y sensores integrados.
+Soy un apasionado por la tecnología enfocado en el desarrollo de software robusto, escalable y con interfaces modernas. Me especializo en conectar el mundo del **desarrollo web**, las **aplicaciones móviles nativas** y los **sistemas embebidos (IoT)**.
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 🛠️ Stack Tecnológico
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GianPollito&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianPollito&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Desarrollo Web** | `PHP`, `Laravel`, `JavaScript`, `Tailwind CSS`, `HTML5`, `CSS3` |
+| **Desarrollo Móvil** | `Kotlin`, `Android SDK`, `Room`, `Retrofit` |
+| **Bases de Datos** | `MySQL`, `SQLite` |
+| **Hardware & IoT** | `Arduino`, `NodeMCU`, `Sensores & Actuadores` |
+| **Control & Herramientas**| `Git`, `GitHub`, `Postman`, `VS Code`, `Android Studio` |
 
 ---
 
-<p align="center">
-  ⚡ ¡Gracias por visitar mi perfil! Si quieres colaborar en un proyecto o charlar sobre tecnología, no dudes en contactarme.
-</p>
+### 🚀 Áreas de Enfoque Principal
+
+- **🌐 Ecosistema Web:** Creación de plataformas dinámicas y seguras utilizando **Laravel**, estilizadas con componentes modernos en **Tailwind CSS** y optimizadas con **MySQL**.
+- **📱 Aplicaciones Móviles:** Desarrollo nativo en **Android con Kotlin**, integrando persistencia local de datos y consumo eficiente de APIs REST.
+- **🔌 Internet de las Cosas (IoT):** Automatización física e intercomunicación de dispositivos mediante microcontroladores **Arduino** y sensores especializados.
+
+---
+
+### 📊 Actividad en GitHub
+
+<div align="center">
+  <!-- Versión limpia y estable que no arroja errores de commits -->
+  <img src="https://github-readme-stats.vercel.app/api?username=GianPollito&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=false" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianPollito&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <p>⚡ Gracias por visitar mi perfil. ¿Tienes algún proyecto en mente o quieres conectar? ¡Hablemos!</p>
+</div>
