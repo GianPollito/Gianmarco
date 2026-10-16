@@ -1,54 +1,129 @@
-<h1 align="center">👋 ¡Hola! Bienvenido a mi GITHUB</h1>
+<div id="header" align="center">
+  <h1>👋 ¡Hola, soy Gian Garbozo! Bienvenido a mi GITHUB</h1>
+</div>
 
 <p align="center">
-  <img src="https://github.com/GianGarbozo/GianGarbozo/blob/main/github-banner.png?raw=true" alt="Gian Garbozo Banner" width="100%">
+  <img src="github-banner.png" alt="Gian Garbozo Banner" width="100%">
 </p>
 
 <p align="center">
-  <i>Desarrollador de Software y Entusiasta de la Tecnología</i>
-</p>
-
----
-
-## 🛠️ Lenguajes y Herramientas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <i>Desarrollador de Software y Apasionado por la Tecnología</i>
 </p>
 
 ---
 
-## 💻 Sobre mí
+<div id="header" align="center">
+  <h2>🛠️ Lenguajes de programación</h2>
 
-<p align="center">
-  <img src="https://i.imgur.com/YOUR_IMAGE_ID.png" alt="Avatar de Gian Garbozo" width="250" style="border-radius: 50%;">
-</p>
+  <table align="center">
+    <tr>
+      <td align="center">
+        <a href="https://git-scm.com/">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.oracle.com/java/">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://kotlinlang.org/">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.php.net/">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.python.org/">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://developer.apple.com/swift/">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
-> "Me apasiona convertir ideas en soluciones tecnológicas reales. En constante aprendizaje y creación de proyectos."
+  <br>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDEycG5mbjkxN3d1azR6ZW94MHMyMDU5ZGJ4Z3JycGdwZmc5amlvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="200"/>
+</div>
 
 ---
 
-## 🌐 Conéctate conmigo
-
-<p align="center">
-  <a href="TU_LINK_DE_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="TU_LINK_DE_YOUTUBE"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="TU_LINK_DE_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="TU_LINK_DE_TIKTOK"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-  <a href="TU_LINK_DE_FACEBOOK"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-</p>
+<div id="header" align="center">
+  <h2>💻 Sobre mí</h2>
+  <img src="avatar.png" alt="Avatar de Gian Garbozo" width="260" style="border-radius: 50%;">
+  <p><em>"Transformando ideas en código limpio y soluciones tecnológicas innovadoras."</em></p>
+</div>
 
 ---
 
-## 📈 Mis Estadísticas de GitHub
+<!-- Redes Sociales: Agrega tus links en los href="..." -->
+<div id="header" align="center">
+  <h2>🌐 Conéctate conmigo</h2>
+  <a href="TU_LINK_DE_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="TU_LINK_DE_YOUTUBE"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
+  <a href="TU_LINK_DE_TWITTER"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/></a>
+  <a href="TU_LINK_DE_TIKTOK"><img src="https://img.shields.io/badge/tiktok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/></a>
+  <a href="TU_LINK_DE_FACEBOOK"><img src="https://img.shields.io/badge/facebook-green?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/></a>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GianGarbozo&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub de GianGarbozo" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=GianGarbozo&theme=radical&hide_border=true" alt="Racha de contribuciones de GianGarbozo" />
-</p>
+---
+
+<div id="header" align="center">
+  <h2>Editores de código</h2>
+  <p>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" />
+    </a>
+    <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" />
+    </a>
+  </p>
+</div>
+
+---
+
+<div id="header" align="center">
+  <h2>Lenguajes de maquetación</h2>
+  <p>
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" />
+    </a>
+    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" />
+    </a>
+  </p>
+</div>
+
+---
+
+<div id="header" align="center">
+  <h2>IoT</h2>
+  <p>
+    <a href="https://store.arduino.cc/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" />
+    </a>
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h2>📈 Mis Estadísticas de GitHub</h2>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=GianGarbozo&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GianGarbozo" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?username=GianGarbozo&theme=radical&hide_border=true" alt="Racha de GianGarbozo" />
+  </p>
+</div>
