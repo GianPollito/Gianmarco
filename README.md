@@ -1,10 +1,13 @@
 <div align="center">
-  <img src="https://i.ibb.co/1rf9fMT/gianmarcos-banner.png" alt="Gianmarcos Garbozo Obregón Banner" width="100%" />
-</div>
+  <!-- Banner Limpio Completo -->
+  <img width="100%" alt="Banner Gianmarcos Garbozo Obregon" src="https://github.com/user-attachments/assets/5270247a-72cf-41a2-99c4-5877899c67f9" />
 
-<div align="center">
+  <!-- Título y Subtítulo Animados por Código -->
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=115&text=Gianmarcos%20Garbozo%20Obregon&fontSize=38&fontColor=38bdf8&animation=twinkling&fontAlignY=45&desc=%E2%9A%A1%20Creador%20de%20Sistemas%20Web%20%E2%80%A2%20Apps%20M%C3%B3viles%20%E2%80%A2%20Soluciones%20IoT%20%E2%9A%A1&descSize=16&descColor=d946ef&descAlignY=80" width="100%" />
+
+  <!-- Texto de Escritura en Tiempo Real -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=19&duration=3200&pause=1000&color=d946ef&center=true&vCenter=true&width=750&height=45&lines=Transformo+ideas+en+programas+f%C3%A1ciles+de+usar+para+personas+reales;De+Pucallpa+%F0%9F%87%B5%F0%9F%87%AA+%7C+Form%C3%A1ndome+en+SENATI;Construyendo+webs,+apps+para+celular+y+circuitos+inteligentes" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=18&duration=3200&pause=1000&color=a855f7&center=true&vCenter=true&width=780&height=40&lines=Transformo+ideas+en+programas+f%C3%A1ciles+de+usar+para+personas+reales;De+Pucallpa+%F0%9F%87%B5%F0%9F%87%AA+%7C+Form%C3%A1ndome+en+SENATI;Construyendo+webs,+apps+para+celular+y+circuitos+inteligentes" alt="Typing SVG" />
   </a>
 </div>
 
@@ -176,7 +179,7 @@ Si tienes una idea en mente, necesitas ayuda con una página web, una aplicació
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,100:090514&height=90&section=footer&text=Hecho%20con%20dedicaci%C3%B3n%20desde%20Pucallpa,%20Per%C3%BA%20%F0%9F%8C%B4&fontSize=16&fontColor=a78bfa&fontAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:d946ef&height=100&section=footer&text=Hecho%20con%20dedicaci%C3%B3n%20desde%20Pucallpa,%20Per%C3%BA%20%F0%9F%8C%B4&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%" />
 </div>
   <p>⚡ Gracias por visitar mi perfil. ¿Tienes algún proyecto en mente o quieres conectar? ¡Hablemos!</p>
 </div>
