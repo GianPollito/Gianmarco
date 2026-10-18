@@ -1,5 +1,6 @@
 <div align="center">
-  <img width="100%" src="https://github.com/user-attachments/assets/6e1cdc60-7b17-4c00-8502-2ff84e39c0cf" alt="Banner Gianmarco Garbozo Obregon" />
+  <img width="100%" src="https://github.com/user-attachments/assets/c9f4c1eb-b268-4276-ad0a-8d037d30a2d2" />
+/>
 </div>
 
 <div align="center">
