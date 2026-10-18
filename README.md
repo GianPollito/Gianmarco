@@ -172,10 +172,10 @@ Si tienes una iniciativa en mente, buscas desarrollar un sistema web, microservi
 
 <div align="center">
   <a href="mailto:gianmarcosgarbozoobregon@gmail.com">
-    <img src="https://img.shields.io/badge/📩_Enviar_correo_a_Gianmarco-1e1b4b?style=for-the-badge&logo=gmail&logoColor=d946ef" height="42" />
+    <img src="https://img.shields.io/badge/Enviar_correo_a_Gianmarco-1e1b4b?style=for-the-badge&logo=gmail&logoColor=d946ef" height="42" />
   </a>
   <a href="https://wa.me/51931157445" target="_blank">
-    <img src="https://img.shields.io/badge/📱_+51_931157445-00E676?style=for-the-badge&logo=whatsapp&logoColor=white" height="42" />
+    <img src="https://img.shields.io/badge/+51_931157445-00E676?style=for-the-badge&logo=whatsapp&logoColor=white" height="42" />
   </a>
 </div>
 
