@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=18&duration=3200&pause=1000&color=a855f7&center=true&vCenter=true&width=780&height=40&lines=Transformo+ideas+en+programas+f%C3%A1ciles+de+usar+para+personas+reales;Desarrollador+Full+Stack+%7C+Desde+Pucallpa,+Per%C3%BA+%F0%9F%87%B5%F0%9F%87%AA;Construyendo+sistemas+web,+apps+y+soluciones+escalables" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=18&duration=3200&pause=1000&color=a855f7&center=true&vCenter=true&width=780&height=40&lines=Transformo+ideas+en+programas+f%C3%A1ciles+de+usar+para+personas+reales;Desarrollador+Full+Stack+%7C+Desde+Pucallpa,+Per%C3%BA+%F0%9F%87%B5%F0%9F%87%AA;Construyendo+sistemas+web,+microservicios+y+apps" alt="Typing SVG" />
   </a>
 </div>
 
@@ -18,14 +18,14 @@
 
 ---
 
-### 👋 Un poco sobre mí (sin palabras complicadas)
+### 👋 Sobre mí
 
 <table>
   <tr>
     <td width="60%" valign="top">
-      <p>¡Hola! Soy <b>Gianmarco</b>. Me dedico a crear tecnología robusta que resuelva problemas reales del día a día sin complicarle la vida a quien la utiliza.</p>
-      <p>Mi enfoque está en diseñar, desarrollar y desplegar desde paneles web e intranets corporativas altamente funcionales hasta aplicaciones móviles optimizadas que garantizan disponibilidad continua.</p>
-      <p>Creo firmemente que un software de excelencia no es el que acumula complejidad innecesaria, sino el que <b>cualquier usuario puede entender y operar a la primera</b>.</p>
+      <p>¡Hola! Soy <b>Gianmarco</b>. Me especializo en el desarrollo de software, creando soluciones tecnológicas robustas y escalables que resuelven problemas del mundo real.</p>
+      <p>Mi enfoque abarca desde el diseño y despliegue de páginas y sistemas web corporativos hasta arquitecturas backend basadas en microservicios y aplicaciones móviles de alta disponibilidad.</p>
+      <p>Creo firmemente que el mejor software combina una arquitectura limpia y eficiente con una experiencia de usuario intuitiva.</p>
     </td>
     <td width="40%" valign="top">
       <pre lang="yaml">
@@ -33,12 +33,12 @@ Perfil:
   Nombre: "Gianmarco Garbozo"
   Ciudad: "Pucallpa, Ucayali"
   Enfoque: "Desarrollo Full Stack"
-Lo_que_hago:
-  - "Sistemas web e Intranets a medida"
-  - "Aplicaciones móviles Android"
-  - "Lógica limpia y arquitectura limpia"
-Mi_regla_de_oro:
-  "Hacer lo difícil, fácil y humano."
+Especialidades:
+  - "Sistemas web e Intranets"
+  - "Microservicios y APIs"
+  - "Aplicaciones móviles nativas"
+Filosofía:
+  "Código limpio, escalable y humano."
       </pre>
     </td>
   </tr>
@@ -46,36 +46,36 @@ Mi_regla_de_oro:
 
 ---
 
-### 🚀 Lo que sé construir (Enfoque práctico)
+### 🚀 Stack y Áreas de Especialización
 
 <table width="100%">
   <tr>
     <td width="33%" valign="top" align="center">
       <br>
-      <img src="https://skillicons.dev/icons?i=laravel,tailwind,mysql" height="45" />
-      <h4>🌐 Sistemas e Intranets Web</h4>
-      <p align="left">Diseño plataformas modernas, rápidas y adaptadas a cualquier dispositivo. Desarrollo paneles administrativos e intranets completas desde cero, gestionando accesos seguros, bases de datos eficientes y lógica de negocio limpia.</p>
+      <img src="https://skillicons.dev/icons?i=laravel,php,mysql" height="45" />
+      <h4>🌐 Sistemas Web & Microservicios</h4>
+      <p align="left">Diseño de plataformas web robustas y desarrollo de servicios backend desacoplados. Creación de APIs REST, gestión avanzada de bases de datos relacionales y control de accesos seguros.</p>
     </td>
     <td width="33%" valign="top" align="center">
       <br>
       <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" height="45" />
       <h4>📱 Aplicaciones Móviles</h4>
-      <p align="left">Creo apps nativas para Android optimizadas para la experiencia real del usuario. Conecto interfaces fluidas con almacenamiento local robusto y sincronización automática con servidores y bases de datos centrales.</p>
+      <p align="left">Desarrollo nativo en Kotlin enfocado en rendimiento y experiencia de usuario. Implementación de arquitectura offline-first con Room y sincronización automatizada de datos.</p>
     </td>
     <td width="33%" valign="top" align="center">
       <br>
-      <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" height="45" />
-      <h4>🔌 Automatización e IoT</h4>
-      <p align="left">Integro software y hardware conectando el mundo físico con sistemas digitales. Programo microcontroladores para control remoto por Bluetooth, telemetría con sensores y visualización de datos en tiempo real.</p>
+      <img src="https://skillicons.dev/icons?i=js,tailwind,html,css" height="45" />
+      <h4>💻 Interfaces Modernas</h4>
+      <p align="left">Maquetación de interfaces responsivas y dinámicas con Tailwind CSS y JavaScript moderno, garantizando tiempos de carga óptimos y adaptabilidad total.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📂 Proyectos Destacados que he armado
+### 📂 Proyectos Destacados
 
-> *Haz clic en cada proyecto para ver su arquitectura y características:*
+> *Haz clic en cada proyecto para ver su arquitectura y detalles técnicos:*
 
 <details open>
   <summary><b>🏫 1. Plataforma Web Principal — Next Level School</b></summary>
@@ -83,12 +83,12 @@ Mi_regla_de_oro:
   <table>
     <tr>
       <td>
-        <b>¿Qué es?:</b> Un portal institucional completo orientado a la gestión de información académica, procesos de admisión y atención a usuarios.<br><br>
-        <b>Características clave:</b>
+        <b>Descripción:</b> Portal institucional orientado a la gestión académica, procesos de admisión y control de contenidos en entornos web de alta concurrencia.<br><br>
+        <b>Características técnicas:</b>
         <ul>
-          <li>Interfaz optimizada con enfoque en accesibilidad y velocidad de carga.</li>
-          <li>Módulo de autenticación seguro con recuperación automatizada de credenciales vía correo electrónico.</li>
-          <li>Estructura modular diseñada para escalar sin perder rendimiento en dispositivos móviles.</li>
+          <li>Arquitectura optimizada para rendimiento y SEO.</li>
+          <li>Módulo de seguridad con autenticación robusta y recuperación automatizada de claves por correo.</li>
+          <li>Interfaz adaptativa con diseño limpio y accesible.</li>
         </ul>
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
@@ -104,16 +104,16 @@ Mi_regla_de_oro:
   <table>
     <tr>
       <td>
-        <b>¿Qué es?:</b> Un sistema privado de gestión interna desarrollado para administrar flujos de datos institucionales de forma centralizada y segura.<br><br>
-        <b>Características clave:</b>
+        <b>Descripción:</b> Sistema corporativo interno diseñado para la administración centralizada de flujos de datos operativos y control de usuarios.<br><br>
+        <b>Características técnicas:</b>
         <ul>
-          <li>Control de roles y permisos estrictos para proteger la información interna.</li>
-          <li>Paneles de métricas y reportes en tiempo real para la toma de decisiones.</li>
-          <li>Arquitectura de código limpia y mantenible orientada a rendimiento.</li>
+          <li>Gestión jerárquica de permisos y roles de usuario (RBAC).</li>
+          <li>Paneles de control y procesamiento de reportes en tiempo real.</li>
+          <li>Estructura backend orientada a mantenibilidad y escalabilidad.</li>
         </ul>
-        <img src="https://img.shields.io/badge/Backend-PHP_%2F_Laravel-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP_%2F_Laravel-777BB4?style=flat-square&logo=php&logoColor=white" />
         <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Security-Auth_%26_Middleware-000000?style=flat-square" />
+        <img src="https://img.shields.io/badge/Architecture-REST_API-000000?style=flat-square" />
       </td>
     </tr>
   </table>
@@ -125,12 +125,12 @@ Mi_regla_de_oro:
   <table>
     <tr>
       <td>
-        <b>¿Qué es?:</b> Aplicación móvil diseñada para mantener conectados los servicios y notificaciones institucionales directamente en el teléfono del usuario.<br><br>
-        <b>Características clave:</b>
+        <b>Descripción:</b> Aplicación móvil Android para la consulta y sincronización de servicios institucionales en movilidad.<br><br>
+        <b>Características técnicas:</b>
         <ul>
-          <li>Funcionamiento offline-first con almacenamiento local mediante Room para operar sin interrupciones ante fallas de red.</li>
-          <li>Sincronización fluida de datos en segundo plano al restablecer la conexión a internet.</li>
-          <li>Diseño de interfaz nativa intuitiva, fluida y ligera.</li>
+          <li>Modelo de persistencia local offline-first implementado con Room Database.</li>
+          <li>Sincronización en segundo plano con servidores y microservicios centrales.</li>
+          <li>Experiencia de usuario fluida y diseño nativo limpio.</li>
         </ul>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
         <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
@@ -141,16 +141,16 @@ Mi_regla_de_oro:
 </details>
 
 <details>
-  <summary><b>🧮 4. Utilidad de Cálculo Avanzado — Calculadora Numex</b></summary>
+  <summary><b>🧮 4. Utilidad de Cálculo — Calculadora Numex</b></summary>
   <br>
   <table>
     <tr>
       <td>
-        <b>¿Qué es?:</b> Una herramienta de cálculo de alta precisión orientada a la resolución rápida de operaciones complejas con interfaz interactiva.<br><br>
-        <b>Características clave:</b>
+        <b>Descripción:</b> Herramienta interactiva de procesamiento numérico de alta precisión optimizada para respuestas instantáneas en cliente.<br><br>
+        <b>Características técnicas:</b>
         <ul>
-          <li>Algoritmos optimizados para procesamiento de datos numéricos en tiempo real.</li>
-          <li>Diseño responsivo minimalista y libre de distracciones visuales.</li>
+          <li>Lógica de procesamiento desarrollada en JavaScript vanilla de alto rendimiento.</li>
+          <li>Interfaz gráfica minimalista y diseño responsive.</li>
         </ul>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
@@ -161,32 +161,32 @@ Mi_regla_de_oro:
 
 ---
 
-### 🧰 Mis Herramientas de Todos los Días
+### 🛠️ Ecosistema y Tecnologías
 
 <div align="center">
-  <p><i>Las tecnologías que combino para darle vida a mis ideas:</i></p>
+  <p><i>Herramientas y tecnologías que domino para el desarrollo de software:</i></p>
   
   <img src="https://skillicons.dev/icons?i=laravel,php,js,tailwind,html,css,mysql&perline=7" alt="Web Stack" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,arduino,raspberrypi,vscode,git&perline=6" alt="Mobile & IoT Stack" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,vscode,git&perline=4" alt="Mobile & Dev Stack" />
 </div>
 
 <br>
 
 <table width="100%">
   <tr>
-    <td width="25%" align="center"><b>Para la Web</b><br><sub>Laravel, PHP, Tailwind CSS, JavaScript, MySQL</sub></td>
-    <td width="25%" align="center"><b>Para Celulares</b><br><sub>Kotlin, Android Studio, Base de datos local (Room)</sub></td>
-    <td width="25%" align="center"><b>Para Electrónica</b><br><sub>Arduino, NodeMCU, Raspberry Pi, Sensores</sub></td>
-    <td width="25%" align="center"><b>Mi Taller Diario</b><br><sub>XAMPP, Git, Control de versiones, Editores con IA</sub></td>
+    <td width="25%" align="center"><b>Backend & APIs</b><br><sub>Laravel, PHP, Microservicios, MySQL</sub></td>
+    <td width="25%" align="center"><b>Mobile Development</b><br><sub>Kotlin, Android Studio, Room (SQLite)</sub></td>
+    <td width="25%" align="center"><b>Frontend & UI</b><br><sub>JavaScript, Tailwind CSS, HTML5, CSS3</sub></td>
+    <td width="25%" align="center"><b>Entorno de Desarrollo</b><br><sub>Git, Control de versiones, VS Code, XAMPP</sub></td>
   </tr>
 </table>
 
 ---
 
-### 🤝 ¿Conversamos o armamos algo juntos?
+### 🤝 ¿Hablamos de un proyecto?
 
-Si tienes una idea en mente, necesitas desarrollar un sistema web, una aplicación o simplemente quieres charlar sobre tecnología, escríbeme directamente:
+Si tienes una iniciativa en mente, buscas desarrollar un sistema web, microservicios o una aplicación móvil, comunícate directamente:
 
 <div align="center">
   <a href="mailto:gianmarcosgarbozoobregon@gmail.com">
@@ -195,5 +195,5 @@ Si tienes una idea en mente, necesitas desarrollar un sistema web, una aplicaci�
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:d946ef&height=100&section=footer&text=Hecho%20con%20dedicaci%C3%B3n%20desde%20Pucallpa,%20Per%C3%BA%20%F0%9F%8C%B4&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:d946ef&height=100&section=footer&text=Desarrollo%20de%20Software%20Profesional%20%E2%80%A2%20Pucallpa,%20Per%C3%BA&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%" />
 </div>
