@@ -1,45 +1,51 @@
-<h1 align="center">¡Hola! 👋 Soy Gianmarco Garbozo</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Gianmarco%20Garbozo&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" />
+</div>
 
-<p align="center">
-  💻 Estudiante y desarrollador de software en formación, creando soluciones web, aplicaciones móviles y sistemas IoT.
-</p>
-
----
-
-### 🚀 Sobre mí
-
-* 📍 **Desde:** Pucallpa, Perú.
-* 🎓 **Formación:** Estudiando y haciendo prácticas en SENATI, enfocado en ingeniería de software, desarrollo web y móvil.
-* 🛠️ **Lo que me gusta:** Construir proyectos reales desde cero, aprender nuevas herramientas de Inteligencia Artificial y mejorar cada día cómo programo.
+<div align="center">
+  <p>🌱 Estudiante de ingeniería de software e intern en SENATI | Apasionado por crear tecnología útil y cercana a las personas.</p>
+</div>
 
 ---
 
-### 🛠️ Mis herramientas de trabajo
-
-Aquí tienes las tecnologías con las que suelo armar mis proyectos:
-
-* **Desarrollo Web:** Laravel, Tailwind CSS, JavaScript, PHP, MySQL, Apache.
-* **Aplicaciones Móviles:** Kotlin, Android Studio, arquitectura offline-first con Room y Retrofit.
-* **Internet de las Cosas (IoT):** Arduino, NodeMCU ESP8266, Raspberry Pi y sensores.
-* **Entornos y Control:** Git, GitHub, XAMPP, VS Code y editores asistidos por IA.
+### ⚡ Un vistazo rápido
+* 📍 **Base actual:** Pucallpa, Perú.
+* 💻 **En qué me enfoco:** Desarrollo web, aplicaciones móviles y sistemas conectados (IoT).
+* 🎯 **Mi filosofía:** Escribir código limpio, funcional y con un lenguaje humano que conecte con quienes lo usan.
 
 ---
 
-### 📊 Mis estadísticas en GitHub
+### 🛠️ Lo que uso en el día a día
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
-</p>
+| Categoría | Tecnologías principales |
+| :--- | :--- |
+| **Web & Backend** | Laravel, PHP, JavaScript, Tailwind CSS, MySQL, Apache |
+| **Móvil** | Kotlin, Android Studio, Room, Retrofit |
+| **IoT & Hardware** | Arduino, NodeMCU ESP8266, Raspberry Pi |
+| **Herramientas** | Git, GitHub, VS Code, XAMPP, Asistentes de IA |
+
+</div>
 
 ---
 
-### 💬 Hablemos
+### 📊 Actividad y Métricas
 
-¿Quieres ver lo que estoy haciendo o charlar sobre algún proyecto? Puedes encontrarme por aquí o revisar mis repositorios. ¡Un gusto saludarte!
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Estadísticas" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Lenguajes" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=nord&hide_border=true&background=0D1117" alt="Racha de contribuciones" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=¡Gracias%20por%20visitar%20mi%20perfil!&fontSize=18&fontColor=fff" width="100%" />
+</div>
 
 ---
 
