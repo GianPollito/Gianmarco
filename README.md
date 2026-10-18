@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/GianPollito/GianPollito/main/watermarked_img_3381952638695665421.jpg" alt="Banner Tecnológico" width="100%" style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
+  <img src="https://github.com/user-attachments/assets/cd2eea58-d57e-4e94-a6de-b8a8d18d09fc" alt="Banner Tecnológico" width="100%" style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
   <br><br>
   <h1>¡Hola, soy Gianmarcos Garbozo Obregon! 👋</h1>
   <p><strong>Estudiante & Desarrollador de Software</strong></p>
