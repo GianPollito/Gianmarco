@@ -1,10 +1,25 @@
 <div align="center">
-  <!-- Banner con el Texto Animado ENCIMA -->
-  <img width="100%" alt="Banner Gianmarco Garbozo Obregon" src="./banner.svg" />
+  <table width="100%" style="border: none;">
+    <tr>
+      <td align="center" background="https://github.com/user-attachments/assets/5270247a-72cf-41a2-99c4-5877899c67f9" style="background-size: cover; background-position: center; border-radius: 12px; padding: 50px 20px;">
+        
+        <!-- Tu Nombre con Estilo Elegante -->
+        <h1 style="color: #f8fafc; font-size: 38px; margin: 0; text-shadow: 0 0 10px rgba(56, 189, 248, 0.6);">
+          Gianmarco Garbozo Obregon
+        </h1>
 
-  <br><br>
+        <!-- Subtítulo con los símbolos <> en lugar de rayos y colores combinados -->
+        <p style="color: #38bdf8; font-size: 18px; font-weight: 600; margin-top: 10px; margin-bottom: 0; text-shadow: 0 0 8px rgba(217, 70, 239, 0.6);">
+          <span style="color: #d946ef;">&lt;&gt;</span> Creador de Sistemas Web <span style="color: #a855f7;">•</span> Apps Móviles <span style="color: #a855f7;">•</span> Soluciones IoT <span style="color: #d946ef;">&gt;&gt;</span>
+        </p>
 
-  <!-- Texto de Escritura en Tiempo Real -->
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <!-- Texto dinámico de escritura -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=18&duration=3200&pause=1000&color=a855f7&center=true&vCenter=true&width=780&height=40&lines=Transformo+ideas+en+programas+f%C3%A1ciles+de+usar+para+personas+reales;De+Pucallpa+%F0%9F%87%B5%F0%9F%87%AA+%7C+Form%C3%A1ndome+en+SENATI;Construyendo+webs,+apps+para+celular+y+circuitos+inteligentes" alt="Typing SVG" />
   </a>
