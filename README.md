@@ -180,5 +180,5 @@ Si tienes una iniciativa en mente, buscas desarrollar un sistema web, microservi
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:d946ef&height=100&section=footer&text=Desarrollo%20de%20Software&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:d946ef&height=100&section=footer&text=Desarrollador%20de%20Software&fontSize=16&fontColor=ffffff&fontAlignY=65" width="100%" />
 </div>
