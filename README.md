@@ -1,9 +1,8 @@
 <div align="center">
-  <!-- Banner Limpio Completo -->
-  <img width="100%" alt="Banner Gianmarcos Garbozo Obregon" src="https://github.com/user-attachments/assets/5270247a-72cf-41a2-99c4-5877899c67f9" />
+  <!-- Banner con el Texto Animado ENCIMA -->
+  <img width="100%" alt="Banner Gianmarco Garbozo Obregon" src="./banner.svg" />
 
-  <!-- Título y Subtítulo Animados por Código -->
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=115&text=Gianmarcos%20Garbozo%20Obregon&fontSize=38&fontColor=38bdf8&animation=twinkling&fontAlignY=45&desc=%E2%9A%A1%20Creador%20de%20Sistemas%20Web%20%E2%80%A2%20Apps%20M%C3%B3viles%20%E2%80%A2%20Soluciones%20IoT%20%E2%9A%A1&descSize=16&descColor=d946ef&descAlignY=80" width="100%" />
+  <br><br>
 
   <!-- Texto de Escritura en Tiempo Real -->
   <a href="https://git.io/typing-svg">
@@ -26,14 +25,14 @@
 <table>
   <tr>
     <td width="60%" valign="top">
-      <p>¡Hola! Soy <b>Gianmarcos</b>. Me dedico a crear tecnología que resuelva problemas del día a día sin complicarle la vida a quien la usa.</p>
+      <p>¡Hola! Soy <b>Gianmarco</b>. Me dedico a crear tecnología que resuelva problemas del día a día sin complicarle la vida a quien la usa.</p>
       <p>Actualmente me formo y realizo mis prácticas en <b>SENATI</b>. Mi trabajo consiste en diseñar y armar desde páginas web administrables hasta aplicaciones para celulares que siguen funcionando aunque se vaya el internet, además de conectar sensores y motores mediante programación.</p>
       <p>Creo que un buen programa no es el que tiene el código más enredado, sino el que <b>cualquier persona puede entender y usar a la primera</b>.</p>
     </td>
     <td width="40%" valign="top">
       <pre lang="yaml">
 Perfil:
-  Nombre: "Gianmarcos Garbozo"
+  Nombre: "Gianmarco Garbozo"
   Ciudad: "Pucallpa, Ucayali"
   Centro: "SENATI"
 Lo_que_hago:
@@ -174,7 +173,7 @@ Si tienes una idea en mente, necesitas ayuda con una página web, una aplicació
 
 <div align="center">
   <a href="mailto:gianmarcosgarbozoobregon@gmail.com">
-    <img src="https://img.shields.io/badge/📩_Enviar_correo_a_Gianmarcos-1e1b4b?style=for-the-badge&logo=gmail&logoColor=d946ef" height="42" />
+    <img src="https://img.shields.io/badge/📩_Enviar_correo_a_Gianmarco-1e1b4b?style=for-the-badge&logo=gmail&logoColor=d946ef" height="42" />
   </a>
 </div>
 
